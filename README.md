@@ -1,2 +1,2 @@
-### Shuyu YUAN's private website 
-##source in the homepage
+# Shuyu YUAN's private website 
+## source at the bottom of the homepage. 
