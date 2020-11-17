@@ -28,8 +28,8 @@ function sendEmail () {
         xhr.withCredentials = false
         xhr.setRequestHeader('Content-Type', 'application/json;charset=UTF-8')
         xhr.onload = () => {
-            alert('send successfully')
             location.reload()
+            alert('send successfully')
         }
         xhr.send(postData);
     } else {
